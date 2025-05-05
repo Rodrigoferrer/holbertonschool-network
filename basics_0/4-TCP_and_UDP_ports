@@ -4,4 +4,4 @@
 # - Shows only listening sockets
 # - Shows the PID and name of the program to which each socket belongs
 
-netstat -lp
+sudo netstat -lp
